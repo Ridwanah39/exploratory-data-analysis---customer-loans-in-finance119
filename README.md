@@ -1,11 +1,11 @@
 # exploratory-data-analysis---customer-loans-in-finance119
 
 ## Table of Contents
-### Description 
-### Installation
-### Usage
-### File Structure
-### License 
+1. Description 
+2. Installation
+3. Usage
+4. File Structure
+5. License 
 
 ## Description 
 This project explored loan payment data to uncover insights into borrower behaviour and trends in repayments. It utilises Python and PostgreSQL for data extraction, transformation and data visualisation. 
