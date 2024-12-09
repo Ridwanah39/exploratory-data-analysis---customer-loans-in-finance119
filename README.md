@@ -14,6 +14,10 @@ This project explored loan payment data to uncover insights into borrower behavi
 - Writing and executing SQL queries
 - Handling and visualising large datasets with Pandas and Matplotlib
 - Troubleshooting RDS PostgreSQL instances
+- Data cleaning, handling missing values, and outliers
+- Transformation of skewed columns
+- Identification and removal of highly correlated features
+- Visualization of key data insights
 
 ## Installation
 1. Clone the repository
@@ -28,8 +32,8 @@ This project explored loan payment data to uncover insights into borrower behavi
 project-directory/
 │
 ├── db_utils.py         # Handles database connections and queries
-├── analysis.ipynb      # Jupyter Notebook for exploratory analysis
-├── requirements.txt    # Python dependencies
+├── data_transform.ipynb      # Jupyter Notebook for exploratory analysis
+├── plotter.py          # Handles null values and boxplots
 └── README.md           # Project documentation
 
 ## License 
