@@ -33,7 +33,7 @@ project-directory/
 │
 ├── db_utils.py         # Handles database connections and queries
 ├── data_transform.ipynb      # Jupyter Notebook for exploratory analysis
-├── plotter.py          # Handles null values and boxplots
+├── data_frame.py          # Handles null values and boxplots
 └── README.md           # Project documentation
 
 ## License 
